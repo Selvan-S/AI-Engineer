@@ -1,0 +1,6 @@
+Python
+Git
+SQL
+Machine Learning
+Generative AI
+Ruby
